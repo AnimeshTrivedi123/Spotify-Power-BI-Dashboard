@@ -34,7 +34,9 @@ Key Features
 
 📷 Dashboard Preview
 
-![3](https://github.com/user-attachments/assets/996d4cf0-8769-4ea0-ba41-f3659c4665d5)
+<img width="1120" alt="1 " src="https://github.com/user-attachments/assets/e42fbb23-11ea-4254-b915-393fc3032f8d" />
+
+<img width="1120" alt="2 " src="https://github.com/user-attachments/assets/e520910b-7469-4e24-99da-c17ee3bf576e" />
 
 
 https://github.com/user-attachments/assets/22481c2b-f163-4786-a141-042702cc9f77
